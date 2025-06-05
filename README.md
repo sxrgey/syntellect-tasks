@@ -1,5 +1,4 @@
 # syntellect-tasks
 
 Пример запуска скрипта:
-npx tsc turtle.ts
-node turtle.js
+npx ts-node tasks/turtle.ts
